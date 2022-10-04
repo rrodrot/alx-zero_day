@@ -1,2 +1,2 @@
 My first readme
-Do hard things Rich
+Do hard things 
